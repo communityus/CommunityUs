@@ -1,6 +1,5 @@
 ### Games and more.  👋
 
-<!--
 **communityus/CommunityUs** checkout some of our ✨ _star_ ✨ repos.
 
 Projects we are working on:
@@ -13,4 +12,3 @@ Projects we are working on:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
