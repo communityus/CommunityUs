@@ -3,6 +3,7 @@ Games and more.  👋
 git clone git@github.com:communityus/CommunityUs.git data
 cd data
 git submodule update --init --recursive
+git submodule foreach --recursive git checkout main
 ```
 Projects we are working on:
 
