@@ -1,6 +1,10 @@
 ### Games and more.  👋
 
-**communityus/CommunityUs** checkout some of our ✨ _star_ ✨ repos.
+```
+git clone git@github.com:communityus/CommunityUs.git data
+git submodule foreach --init
+
+```
 
 Projects we are working on:
 
