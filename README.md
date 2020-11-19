@@ -1,11 +1,9 @@
-### Games and more.  👋
-
+Games and more.  👋
 ```
 git clone git@github.com:communityus/CommunityUs.git data
 cd data
 git submodule update --init --recursive
 ```
-
 Projects we are working on:
 
 - 🔭 [TLE](https://github.com/communityus/TLE) a GPL client and non-copyleft mostly MIT client...
